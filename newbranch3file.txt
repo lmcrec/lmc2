@@ -1,3 +1,2 @@
 new branch 3 file
-
-hjasgdfhawef
+hjasgdfhawef //no blank lines
